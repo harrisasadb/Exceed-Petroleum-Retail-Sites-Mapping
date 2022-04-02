@@ -4,5 +4,5 @@
 - Clustered retail sites on interactive maps ([**click here**](https://rawcdn.githack.com/harrisasadb/Data-Science-Portfolio/02e23dabf323f9a962143e4c58ecf83acc3f5ad7/images/Retail_Sites.html)) by their file number using **folium** in python.
 - Performed data visualisation using **seaborn** and **matplotlib** to highlight district wise the number of sites by their operational status.
 
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/download.png)
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/maps.png)
+![](https://github.com/harrisasadb/Exceed-Petroleum-Retail-Sites-Mapping/blob/main/exceed%20pics/sites.png)
+![](https://github.com/harrisasadb/Exceed-Petroleum-Retail-Sites-Mapping/blob/main/exceed%20pics/map.png)
